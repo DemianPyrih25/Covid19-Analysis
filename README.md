@@ -38,18 +38,3 @@ pip install -r requirements.txt
 1. Place the `covid_data.csv` file in the same directory as the notebook
 2. Open `COVID19_Analysis.ipynb` in Jupyter Notebook or JupyterLab
 3. Run all cells to generate the analysis and visualizations
-
-## Key Findings
-
-- The pandemic began in early 2020 and affected all regions globally
-- Multiple waves of infection occurred with varying peak intensities
-- Densely populated countries experienced the highest case numbers
-- The total number of cases continued to accumulate throughout the entire period
-
-## Author
-
-Data Science Internship Project
-
-## License
-
-This project is for educational purposes.
